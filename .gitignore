@@ -1,0 +1,14 @@
+dataset/*
+!dataset/.gitkeep
+
+result/*
+!result/.gitkeep
+
+imgSource/*
+!imgSource/.gitkeep
+
+datasetResult/*
+!datasetResult/.gitkeep
+
+.idea/*
+__pycache__/*
